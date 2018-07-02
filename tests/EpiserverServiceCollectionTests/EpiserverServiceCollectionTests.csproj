@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\EpiIServiceCollection\EpiserverIServiceCollection.csproj" />
+    <ProjectReference Include="..\..\src\EpiserverIServiceCollection\EpiserverIServiceCollection.csproj" />
   </ItemGroup>
 
 </Project>
